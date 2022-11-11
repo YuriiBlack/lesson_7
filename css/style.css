@@ -1,0 +1,132 @@
+.container{
+    padding-top: 33px;
+    max-width: 810px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+.tittle{
+    margin-bottom: 86px;
+    font-weight: 900;
+    font-size: 46px;
+    color: #1E212C;
+}
+.article_1{
+    font-weight: 700;
+    font-size: 20px;
+    color: #1E212C;
+    margin-top: 60px;
+}
+.article_2{
+    margin-top:24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #424551;
+}
+.p{
+    margin-bottom:  24px;
+}
+.article_3{
+    margin-top: 48px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #1E212C;
+}
+.article_4{
+    margin-top: 48px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #424551;
+}
+.list{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #424551;
+}
+.list li {
+    padding-top:4px ;
+}
+.article_5{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #424551;
+}
+
+.hed{
+    margin-top: 50px;
+    font-size: 44px;
+    font-weight: 700;
+}
+.color{
+    margin-top: 20px;
+    background: rgba(177, 205, 168, 1);
+}
+.im{
+    margin: 15px;
+    background: url('../img/image.png') repeat;
+    width: 1200px;
+    height: 300px;
+}
+
+.im_2{
+    background: url("../img/download.jpg") repeat-x;
+    width: 1200px;
+    height: 300px;
+}
+
+.im_3{
+    background: url("../img/download.jpg") 11% no-repeat;
+    width: 1200px;
+    height: 300px;
+}
+
+.im_4{
+    background: url("../img/download.jpg") 60% no-repeat;
+    width: 1200px;
+    height: 300px;
+}
+.im_5{
+    background: url("../img/download.jpg") right no-repeat;
+    width: 1200px;
+    height: 300px;
+}
+
+.at{
+    background: url("../img/download.jpg") 0 0/100% auto no-repeat;
+    width: 900px;
+    height: 500px;
+}
+.at_2{
+    margin-top: 20px;
+    background: url("../img/download.jpg") 0 0/auto 100% no-repeat;
+    width: 900px;
+    height: 500px;
+}
+
+.at_3{
+    margin-top: 20px;
+    background: url("../img/download.jpg") 0 0/100% 100% no-repeat;
+    width: 900px;
+    height: 500px;
+}
+.at_4{
+    margin-top: 20px;
+    background: url("../img/download.jpg") 0 0/cover  no-repeat;
+    width: 900px;
+    height: 500px;
+}
+
+.pic_3{
+    margin-top: 20px;
+    background: url("../img/google.png") right/50px no-repeat,url('../img/google.png') left/50px no-repeat,url("../img/image.png") center no-repeat,url("../img/download.jpg") 50%/cover no-repeat;
+    width: 900px;
+    height: 500px;
+}
+
+.pic_4{
+    margin-top: 20px;
+    background: url("../img/google.png") right/50px no-repeat,url('../img/google.png') left/50px no-repeat,url("../img/download.jpg") 50%/cover no-repeat;
+    width: 900px;
+    height: 500px;
+}
